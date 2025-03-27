@@ -1,0 +1,557 @@
+> System: batlik, Dataset: corona.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.03 ± 0.00
+MAE: 0.04 ± 0.00
+RMSE: 0.06 ± 0.00
+
+> System: batlik, Dataset: cranium.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.02 ± 0.00
+MAE: 0.04 ± 0.00
+RMSE: 0.05 ± 0.00
+
+> System: batlik, Dataset: cubus.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.10 ± 0.00
+RMSE: 0.13 ± 0.00
+
+> System: batlik, Dataset: flame.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.02 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.04 ± 0.00
+
+> System: batlik, Dataset: france.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.07 ± 0.00
+RMSE: 0.09 ± 0.00
+
+> System: batlik, Dataset: frisco.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.03 ± 0.00
+MAE: 0.13 ± 0.01
+RMSE: 0.17 ± 0.01
+
+> System: batlik, Dataset: jelly.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.04 ± 0.00
+RMSE: 0.07 ± 0.01
+
+> System: batlik, Dataset: karte.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.22 ± 0.01
+RMSE: 0.29 ± 0.01
+
+> System: batlik, Dataset: mandelbrot.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.02 ± 0.00
+MAE: 0.02 ± 0.00
+RMSE: 0.03 ± 0.00
+
+> System: batlik, Dataset: strawberry.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.02 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.04 ± 0.00
+
+> System: batlik, Dataset: village.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.02 ± 0.00
+MAE: 0.10 ± 0.01
+RMSE: 0.26 ± 0.05
+
+> System: dconvert, Dataset: jpeg-large.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.08 ± 0.00
+RMSE: 0.12 ± 0.00
+
+> System: dconvert, Dataset: jpeg-medium.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.05 ± 0.00
+
+> System: dconvert, Dataset: jpeg-small.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.03 ± 0.00
+MAE: 0.01 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: dconvert, Dataset: png-large.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.02 ± 0.00
+MAE: 0.06 ± 0.00
+RMSE: 0.07 ± 0.00
+
+> System: dconvert, Dataset: png-medium.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.02 ± 0.00
+MAE: 0.02 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: dconvert, Dataset: png-small.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.03 ± 0.00
+MAE: 0.01 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: dconvert, Dataset: psd-large.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.01 ± 0.00
+MAE: 0.53 ± 0.01
+RMSE: 0.87 ± 0.02
+
+> System: dconvert, Dataset: psd-medium.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.02 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.04 ± 0.00
+
+> System: dconvert, Dataset: psd-small.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.03 ± 0.00
+MAE: 0.02 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: dconvert, Dataset: svg-large.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.02 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.04 ± 0.00
+
+> System: dconvert, Dataset: svg-medium.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.03 ± 0.00
+
+> System: dconvert, Dataset: svg-small.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.01 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: h2, Dataset: smallbank-1.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.04 ± 0.00
+MAE: 680.53 ± 32.06
+RMSE: 878.69 ± 36.81
+
+> System: h2, Dataset: smallbank-10.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 269.72 ± 8.16
+RMSE: 369.84 ± 16.52
+
+> System: h2, Dataset: tpcc-2.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.03 ± 0.00
+MAE: 19.64 ± 0.91
+RMSE: 24.41 ± 1.19
+
+> System: h2, Dataset: tpcc-8.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.20 ± 0.01
+MAE: 106.38 ± 3.77
+RMSE: 165.51 ± 5.34
+
+> System: h2, Dataset: voter-16.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 515.11 ± 25.10
+RMSE: 696.47 ± 30.40
+
+> System: h2, Dataset: voter-2.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.02 ± 0.00
+MAE: 504.74 ± 19.11
+RMSE: 710.48 ± 78.56
+
+> System: h2, Dataset: ycsb-2400.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.04 ± 0.00
+MAE: 533.59 ± 18.08
+RMSE: 676.24 ± 17.04
+
+> System: h2, Dataset: ycsb-600.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.03 ± 0.00
+MAE: 661.86 ± 4.31
+RMSE: 884.85 ± 4.41
+
+> System: jump3r, Dataset: beethoven.wav.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.18 ± 0.00
+MAE: 1.75 ± 0.04
+RMSE: 2.34 ± 0.03
+
+> System: jump3r, Dataset: dual-channel.wav.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.16 ± 0.00
+MAE: 0.45 ± 0.01
+RMSE: 0.63 ± 0.01
+
+> System: jump3r, Dataset: helix.wav.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.17 ± 0.00
+MAE: 0.86 ± 0.01
+RMSE: 1.30 ± 0.11
+
+> System: jump3r, Dataset: single-channel.wav.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.14 ± 0.00
+MAE: 0.26 ± 0.01
+RMSE: 0.35 ± 0.01
+
+> System: jump3r, Dataset: speech.wav.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.15 ± 0.00
+MAE: 0.68 ± 0.01
+RMSE: 0.88 ± 0.01
+
+> System: jump3r, Dataset: sweep.wav.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 50}
+MAPE: 0.09 ± 0.00
+MAE: 0.05 ± 0.00
+RMSE: 0.07 ± 0.00
+
+> System: kanzi, Dataset: ambivert.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.13 ± 0.01
+MAE: 1.13 ± 0.06
+RMSE: 1.80 ± 0.16
+
+> System: kanzi, Dataset: artificl.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.05 ± 0.00
+MAE: 0.02 ± 0.00
+RMSE: 0.04 ± 0.00
+
+> System: kanzi, Dataset: deepfield.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.77 ± 0.04
+MAE: 1.15 ± 0.04
+RMSE: 1.97 ± 0.15
+
+> System: kanzi, Dataset: enwik8.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.16 ± 0.02
+MAE: 1.92 ± 0.05
+RMSE: 3.54 ± 0.16
+
+> System: kanzi, Dataset: fannie_mae_500k.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.22 ± 0.02
+MAE: 1.74 ± 0.05
+RMSE: 3.28 ± 0.23
+
+> System: kanzi, Dataset: large.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.08 ± 0.01
+MAE: 0.21 ± 0.01
+RMSE: 0.40 ± 0.02
+
+> System: kanzi, Dataset: misc.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.04 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.06 ± 0.00
+
+> System: kanzi, Dataset: silesia.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.17 ± 0.01
+MAE: 3.79 ± 0.14
+RMSE: 6.74 ± 0.34
+
+> System: kanzi, Dataset: vmlinux.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.74 ± 0.06
+MAE: 8.83 ± 0.68
+RMSE: 21.56 ± 1.44
+
+> System: lrzip, Dataset: ambivert.wav.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 1.90 ± 0.65
+MAE: 16.06 ± 1.58
+RMSE: 24.70 ± 1.63
+
+> System: lrzip, Dataset: artificl.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 14.58 ± 5.51
+MAE: 1.24 ± 0.06
+RMSE: 1.39 ± 0.08
+
+> System: lrzip, Dataset: deepfield.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 1.79 ± 0.53
+MAE: 15.44 ± 1.40
+RMSE: 23.68 ± 2.03
+
+> System: lrzip, Dataset: enwik8.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 1.24 ± 0.25
+MAE: 20.78 ± 1.79
+RMSE: 29.66 ± 1.98
+
+> System: lrzip, Dataset: fannie_mae_500k.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.13 ± 0.02
+MAE: 5.78 ± 0.68
+RMSE: 8.11 ± 0.74
+
+> System: lrzip, Dataset: large.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 1.09 ± 0.37
+MAE: 2.45 ± 0.33
+RMSE: 3.21 ± 0.26
+
+> System: lrzip, Dataset: misc.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 2.84 ± 1.01
+MAE: 1.26 ± 0.04
+RMSE: 1.45 ± 0.07
+
+> System: lrzip, Dataset: silesia.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 1.37 ± 0.26
+MAE: 33.85 ± 3.63
+RMSE: 48.68 ± 3.79
+
+> System: lrzip, Dataset: uiq-32.bin.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 2.27 ± 0.49
+MAE: 56.29 ± 6.22
+RMSE: 79.21 ± 4.09
+
+> System: lrzip, Dataset: uiq2-16.bin.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 2.03 ± 0.56
+MAE: 31.24 ± 3.50
+RMSE: 45.74 ± 3.10
+
+> System: lrzip, Dataset: uiq2-4.bin.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 1.42 ± 0.39
+MAE: 7.82 ± 0.70
+RMSE: 11.42 ± 1.36
+
+> System: lrzip, Dataset: uiq2-8.bin.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 1.65 ± 0.43
+MAE: 15.50 ± 1.66
+RMSE: 22.20 ± 2.74
+
+> System: lrzip, Dataset: vmlinux-5.10.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.91 ± 0.26
+MAE: 5.13 ± 0.54
+RMSE: 7.35 ± 0.64
+
+> System: x264, Dataset: blue_sky_1080p25_short.y4m.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.16 ± 0.01
+MAE: 1.45 ± 0.07
+RMSE: 2.76 ± 0.12
+
+> System: x264, Dataset: Johnny_1280x720_60_short.y4m.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.18 ± 0.01
+MAE: 1.16 ± 0.07
+RMSE: 2.24 ± 0.11
+
+> System: x264, Dataset: Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 100}
+MAPE: 0.14 ± 0.01
+MAE: 3.60 ± 0.21
+RMSE: 7.17 ± 0.38
+
+> System: x264, Dataset: pedestrian_area_1080p25_short.y4m.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.16 ± 0.01
+MAE: 1.68 ± 0.09
+RMSE: 3.18 ± 0.13
+
+> System: x264, Dataset: riverbed_1080p25_short.y4m.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.16 ± 0.01
+MAE: 3.22 ± 0.18
+RMSE: 6.11 ± 0.27
+
+> System: x264, Dataset: sd_bridge_close_cif_short.y4m.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 150}
+MAPE: 0.10 ± 0.01
+MAE: 0.06 ± 0.00
+RMSE: 0.11 ± 0.01
+
+> System: x264, Dataset: sd_city_4cif_short.y4m.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.16 ± 0.01
+MAE: 0.66 ± 0.04
+RMSE: 1.28 ± 0.05
+
+> System: x264, Dataset: sd_crew_cif_short.y4m.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.13 ± 0.01
+MAE: 0.11 ± 0.01
+RMSE: 0.21 ± 0.01
+
+> System: x264, Dataset: sintel_trailer_2k_720p24_short.y4m.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.13 ± 0.01
+MAE: 0.17 ± 0.01
+RMSE: 0.32 ± 0.02
+
+> System: xz, Dataset: ambivert.wav.tar.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.03 ± 0.00
+MAE: 0.59 ± 0.05
+RMSE: 1.39 ± 0.17
+
+> System: xz, Dataset: artificl.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 50}
+MAPE: 0.29 ± 0.01
+MAE: 0.01 ± 0.00
+RMSE: 0.01 ± 0.00
+
+> System: xz, Dataset: deepfield.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.03 ± 0.00
+MAE: 0.39 ± 0.04
+RMSE: 0.75 ± 0.17
+
+> System: xz, Dataset: enwik8.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.19 ± 0.01
+MAE: 12.26 ± 1.86
+RMSE: 34.13 ± 5.73
+
+> System: xz, Dataset: fannie_mae_500k.tar.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.03 ± 0.00
+MAE: 1.07 ± 0.07
+RMSE: 2.25 ± 0.80
+
+> System: xz, Dataset: large.tar.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.10 ± 0.00
+RMSE: 0.14 ± 0.00
+
+> System: xz, Dataset: misc.tar.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.05 ± 0.00
+MAE: 0.02 ± 0.00
+RMSE: 0.05 ± 0.01
+
+> System: xz, Dataset: silesia.tar.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 4, 'n_estimators': 50}
+MAPE: 0.03 ± 0.00
+MAE: 2.84 ± 0.36
+RMSE: 5.87 ± 1.16
+
+> System: xz, Dataset: uiq-32.bin.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.11 ± 0.00
+MAE: 12.47 ± 1.36
+RMSE: 31.01 ± 3.00
+
+> System: xz, Dataset: uiq2-16.bin.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 50}
+MAPE: 0.17 ± 0.01
+MAE: 7.21 ± 0.70
+RMSE: 16.87 ± 3.97
+
+> System: xz, Dataset: uiq2-4.bin.csv
+Best parameters found: {'learning_rate': 0.2, 'max_depth': 5, 'n_estimators': 50}
+MAPE: 0.03 ± 0.00
+MAE: 0.25 ± 0.02
+RMSE: 0.45 ± 0.06
+
+> System: xz, Dataset: uiq2-8.bin.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}
+MAPE: 0.08 ± 0.00
+MAE: 2.23 ± 0.33
+RMSE: 6.55 ± 1.41
+
+> System: xz, Dataset: vmlinux-5.10.tar.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100}
+MAPE: 0.02 ± 0.00
+MAE: 0.15 ± 0.01
+RMSE: 0.22 ± 0.01
+
+> System: z3, Dataset: AUFNIRA_z3.637557.smt2.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.01 ± 0.00
+MAE: 0.31 ± 0.05
+RMSE: 0.56 ± 0.07
+
+> System: z3, Dataset: LRA_formula_277.smt2.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.00 ± 0.00
+MAE: 0.01 ± 0.00
+RMSE: 0.01 ± 0.00
+
+> System: z3, Dataset: QF_AUFBV_891_sqlite3.smt2.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}
+MAPE: 0.10 ± 0.05
+MAE: 0.40 ± 0.07
+RMSE: 0.88 ± 0.23
+
+> System: z3, Dataset: QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.00 ± 0.00
+MAE: 0.03 ± 0.00
+RMSE: 0.05 ± 0.00
+
+> System: z3, Dataset: QF_BV_bench_3176.smt2.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 150}
+MAPE: 0.01 ± 0.00
+MAE: 1.49 ± 0.12
+RMSE: 3.43 ± 0.28
+
+> System: z3, Dataset: QF_BV_bench_935.smt2.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 150}
+MAPE: 0.03 ± 0.00
+MAE: 0.98 ± 0.10
+RMSE: 2.17 ± 0.22
+
+> System: z3, Dataset: QF_LIA_tightrhombus.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 100}
+MAPE: 0.01 ± 0.00
+MAE: 0.01 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: z3, Dataset: QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 150}
+MAPE: 0.00 ± 0.00
+MAE: 0.02 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: z3, Dataset: QF_NRA_hong_9.smt2.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.00 ± 0.00
+MAE: 0.01 ± 0.00
+RMSE: 0.02 ± 0.00
+
+> System: z3, Dataset: QF_RDL_orb08_888.smt2.csv
+Best parameters found: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 150}
+MAPE: 0.00 ± 0.00
+MAE: 0.04 ± 0.00
+RMSE: 0.05 ± 0.00
+
+> System: z3, Dataset: QF_UFLIA_xs_23_43.smt2.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.01 ± 0.00
+MAE: 0.18 ± 0.02
+RMSE: 0.34 ± 0.06
+
+> System: z3, Dataset: QF_UF_PEQ018_size6.smt2.csv
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+MAPE: 0.01 ± 0.00
+MAE: 0.38 ± 0.04
+RMSE: 0.64 ± 0.06
