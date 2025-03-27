@@ -1,7 +1,7 @@
 # Requirements
 
     Install any versions of Python 3
-    Install any required packages using pip in terminal, including pandas, numpy and scikit-learn
+    Install any required packages using pip in terminal, including pandas, numpy and scikit-learn, see requirements.pdf for more info
 
 # How to run the code
 
