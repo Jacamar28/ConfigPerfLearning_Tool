@@ -5,6 +5,6 @@
 
 # How to run the code
 
-    Open the Python file with any IDE
-    Change any parameters to adjust the experiment settings if needed, e.g. the number of repeats
+    Open the Python file solution.py with any IDE
+    Change any parameters to adjust the experiment settings if needed, e.g. the number of repeats (see manual.pdf)
     Click 'Run' button, and the results will be printed
